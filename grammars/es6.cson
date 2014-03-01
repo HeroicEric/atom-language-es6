@@ -1,0 +1,7 @@
+'comment': 'ES6 Syntax'
+'fileTypes': [
+  'es6'
+  'js.es6'
+]
+'patterns': ['include': 'source.js']
+'scopeName': 'source.es6'
